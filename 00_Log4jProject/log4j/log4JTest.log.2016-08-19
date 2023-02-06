@@ -1,0 +1,40 @@
+ [INFO] [2016-08-19 00:03:17,284] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[56] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-19 00:03:17,286] [com.config.Log4JConfigUtil@<clinit>]-[26] - log4j file has been successfully loaded!
+[ERROR] [2016-08-19 00:03:17,288] [com.config.Log4JConfigUtil@main]-[68] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.config.Log4JConfigUtil.main(Log4JConfigUtil.java:66)
+
+[INFO] [2016-08-19 00:04:38,516] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[56] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-19 00:04:38,518] [com.config.Log4JConfigUtil@<clinit>]-[26] - log4j file has been successfully loaded!
+[ERROR] [2016-08-19 00:04:38,518] [com.config.Log4JConfigUtil@main]-[70] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.config.Log4JConfigUtil.main(Log4JConfigUtil.java:67)
+
+[INFO] [2016-08-19 00:05:51,948] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[55] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-19 00:05:51,950] [com.config.Log4JConfigUtil@<clinit>]-[24] - log4j file has been successfully loaded!
+[ERROR] [2016-08-19 00:05:51,950] [com.config.Log4JConfigUtil@main]-[68] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.config.Log4JConfigUtil.main(Log4JConfigUtil.java:66)
+
+[ERROR] [2016-08-19 00:05:51,952] [com.config.Log4JConfigUtil@main]-[69] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.config.Log4JConfigUtil.main(Log4JConfigUtil.java:66)
+
+[INFO] [2016-08-19 07:51:27,557] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[55] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-19 07:51:27,573] [com.config.Log4JConfigUtil@<clinit>]-[24] - log4j file has been successfully loaded!
+[ERROR] [2016-08-19 07:51:27,573] [com.config.Log4JConfigUtil@main]-[69] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.config.Log4JConfigUtil.main(Log4JConfigUtil.java:66)
+
+[INFO] [2016-08-19 07:52:09,351] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[55] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-19 07:52:09,351] [com.config.Log4JConfigUtil@<clinit>]-[24] - log4j file has been successfully loaded!

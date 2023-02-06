@@ -1,0 +1,93 @@
+[INFO] [2023-02-06 22:02:46,728] [com.log4j.configuration.Log4JConfiguration@loadlog4jPropertiesFile]-[57] - [log4j configuration file has been successfully uploaded][Log4j File Loc = D:\My_Eclipse_Workspace\Log4j\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2023-02-06 22:02:46,731] [com.log4j.configuration.Log4JConfiguration@<clinit>]-[26] - log4j file has been successfully loaded!
+[INFO] [2023-02-06 22:02:46,732] [com.log4j.client.Log4JClient@main]-[10] - [main() has been started]
+[ERROR] [2023-02-06 22:02:46,735] [com.log4j.client.Log4JClient@main]-[17] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:02:46,751] [com.log4j.client.Log4JClient@main]-[18] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:02:46,754] [com.log4j.client.Log4JClient@main]-[17] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:02:46,755] [com.log4j.client.Log4JClient@main]-[18] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[INFO] [2023-02-06 22:02:46,755] [com.log4j.client.Log4JClient@main]-[21] - [main() has been end]
+
+==================================================================================================
+[INFO] [2023-02-06 22:06:40,786] [com.log4j.configuration.Log4JConfiguration@loadlog4jPropertiesFile]-[57] - [log4j configuration file has been successfully uploaded][Log4j File Loc = D:\My_Eclipse_Workspace\Log4j\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2023-02-06 22:06:40,790] [com.log4j.configuration.Log4JConfiguration@<clinit>]-[26] - log4j file has been successfully loaded!
+[INFO] [2023-02-06 22:06:40,791] [com.log4j.client.Log4JClient@main]-[10] - [main() has been started]
+[ERROR] [2023-02-06 22:06:45,800] [com.log4j.client.Log4JClient@main]-[17] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:06:45,801] [com.log4j.client.Log4JClient@main]-[18] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:06:50,810] [com.log4j.client.Log4JClient@main]-[17] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:06:50,810] [com.log4j.client.Log4JClient@main]-[18] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:06:55,822] [com.log4j.client.Log4JClient@main]-[17] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:06:55,824] [com.log4j.client.Log4JClient@main]-[18] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:07:00,834] [com.log4j.client.Log4JClient@main]-[17] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:07:00,835] [com.log4j.client.Log4JClient@main]-[18] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:07:05,842] [com.log4j.client.Log4JClient@main]-[17] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+
+[ERROR] [2023-02-06 22:07:05,842] [com.log4j.client.Log4JClient@main]-[18] - java.lang.NumberFormatException: For input string: "sdf"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.log4j.client.Log4JClient.main(Log4JClient.java:14)
+

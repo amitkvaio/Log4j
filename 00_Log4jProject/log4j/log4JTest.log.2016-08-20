@@ -1,0 +1,2 @@
+[INFO] [2016-08-20 07:53:06,419] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[55] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-20 07:53:06,419] [com.config.Log4JConfigUtil@<clinit>]-[24] - log4j file has been successfully loaded!

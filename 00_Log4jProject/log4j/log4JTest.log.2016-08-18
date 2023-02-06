@@ -1,0 +1,22 @@
+ [INFO] 18 Aug 2016 23:48:13,307 com.config.Log4JConfigUtil loadlog4jPropertiesFile - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] 18 Aug 2016 23:48:13,311 com.config.Log4JConfigUtil <clinit> - log4j file has been successfully loaded!
+[INFO] 18 Aug 2016 23:48:43,083 com.config.Log4JConfigUtil@loadlog4jPropertiesFile - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] 18 Aug 2016 23:48:43,085 com.config.Log4JConfigUtil@<clinit> - log4j file has been successfully loaded!
+[INFO] 18 Aug 2016 23:50:48,086 com.config.Log4JConfigUtil@loadlog4jPropertiesFile-[54] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] 18 Aug 2016 23:50:48,089 com.config.Log4JConfigUtil@<clinit>-[24] - log4j file has been successfully loaded!
+[INFO] 2016-08-18 23:53:13,069 com.config.Log4JConfigUtil@loadlog4jPropertiesFile - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] 2016-08-18 23:53:13,071 com.config.Log4JConfigUtil@<clinit> - log4j file has been successfully loaded!
+[INFO] [2016-08-18 23:54:23,427] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[54] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-18 23:54:23,430] [com.config.Log4JConfigUtil@<clinit>]-[24] - log4j file has been successfully loaded!
+[INFO] [2016-08-18 23:56:35,677] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[55] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-18 23:56:35,679] [com.config.Log4JConfigUtil@<clinit>]-[25] - log4j file has been successfully loaded!
+[DEBUG] [2016-08-18 23:56:35,681] [com.config.Log4JConfigUtil@main]-[63] - [main() has been started]
+[DEBUG] [2016-08-18 23:56:35,681] [com.config.Log4JConfigUtil@main]-[65] - [main() has been end]
+[INFO] [2016-08-18 23:57:01,013] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[55] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-18 23:57:01,015] [com.config.Log4JConfigUtil@<clinit>]-[25] - log4j file has been successfully loaded!
+[DEBUG] [2016-08-18 23:57:01,015] [com.config.Log4JConfigUtil@main]-[63] - [main() has been started]
+[DEBUG] [2016-08-18 23:57:01,015] [com.config.Log4JConfigUtil@main]-[65] - [main() has been end]
+[INFO] [2016-08-18 23:58:38,338] [com.config.Log4JConfigUtil@loadlog4jPropertiesFile]-[56] - [log4j configuration file has been successfully uploaded][Log4j File Loc = G:\EclipseWorkSpace_Oracle_20160703\00_Log4jProject\src\com\propertiesFile\log4j.properties]
+[INFO] [2016-08-18 23:58:38,340] [com.config.Log4JConfigUtil@<clinit>]-[26] - log4j file has been successfully loaded!
+[DEBUG] [2016-08-18 23:58:38,340] [com.config.Log4JConfigUtil@main]-[64] - [main() has been started]
+[DEBUG] [2016-08-18 23:58:38,340] [com.config.Log4JConfigUtil@main]-[70] - [main() has been end]
